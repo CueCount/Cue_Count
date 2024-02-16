@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind utilities;
+
+html{
+    background: theme("colors.slate.500") }
+
